@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "userInterfaceStyle": "dark",
+    "name": "chow-app",
+    "slug": "chow-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "splash": {
+      "image":"./src/assets/img/splash-screens/ios/splash.png",
+      "resizeMode": "cover"
+    },
+    "ios": {
+      "infoPlist": {
+        "UIUserInterfaceStyle": "Dark"
+      }
+    }
+  },
+  "name": "chow"
+}
