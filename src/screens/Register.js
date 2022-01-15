@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { Animated, TextInput, Switch, Image, StyleSheet, Text, View, TouchableOpacity } from 'react-native';
 import { StatusBar } from 'expo-status-bar';
 import InputText from '../components/InputText'
-
+// test
 export default function Register(props) {
 
     const [isEnabled, setIsEnabled] = useState(false);
